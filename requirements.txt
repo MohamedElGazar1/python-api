@@ -4,5 +4,4 @@ numpy
 tensorflow
 mtcnn
 pyttsx3
-libespeak1
 
