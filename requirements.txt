@@ -4,4 +4,5 @@ numpy
 tensorflow
 mtcnn
 pyttsx3
+python>=3.7,<3.11
 
